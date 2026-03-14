@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "DesafioNivelNovato.C": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
