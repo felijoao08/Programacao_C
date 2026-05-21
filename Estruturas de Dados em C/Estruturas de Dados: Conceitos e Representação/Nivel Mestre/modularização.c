@@ -1,8 +1,11 @@
 #include <stdio.h>
 
+Int valor = 1; \\Variavel de escopo global
+
+
 //Modularizaçao é basicamente a utilização de funções
-int soma (int n1, int n2) {
-    int soma = n1 + n1;
+int soma (int n1, int n2) { \\Passagemn de parâmetros
+    int soma = n1 + n1; //Variavel de escopo local
     
     return soma;
 
